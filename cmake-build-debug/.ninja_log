@@ -1,7 +1,6 @@
 # ninja log v5
-1	465	6851746320392878	CMakeFiles/coding_1.dir/main.cpp.obj	eb2f7cba8facd0da
-466	1251	6851746328114602	coding_1.exe	3f57ef582aad487b
-4	453	6851750494067871	CMakeFiles/coding_1.dir/main.cpp.obj	eb2f7cba8facd0da
-453	1030	6851750499735030	coding_1.exe	3f57ef582aad487b
-4	448	6851755235396831	CMakeFiles/coding_1.dir/main.cpp.obj	eb2f7cba8facd0da
-448	1097	6851755241721846	coding_1.exe	3f57ef582aad487b
+3	415	6851887221114426	CMakeFiles/coding_1.dir/main.cpp.obj	eb2f7cba8facd0da
+415	940	6851887226248288	coding_1.exe	3f57ef582aad487b
+8	372	6851899490005072	CMakeFiles/coding_1.dir/myfirst.cpp.obj	e893f06fa6a4acc1
+3	372	6851899490010955	CMakeFiles/coding_1.dir/main.cpp.obj	eb2f7cba8facd0da
+373	981	6851899495972424	coding_1.exe	34fa6d6f66f5cfc3
