@@ -40,6 +40,12 @@ void cinit()
     carrot += 2;
     std::cout << "Now ,you have " << carrot << " carrots" << std::endl;
 }
-
+void C_lib()
+{
+    using namespace std;
+    double num;
+    std::cin >> num;
+    cout << sqrt(num) << endl;
+}
 
 

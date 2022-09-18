@@ -4,9 +4,11 @@
 #include "myfirst.h"
 int main(void)
 {
+    using namespace std;
     //hellow();
     //carrot();
-    cinit();
-
+    //cinit();
+    //Square Root Calculations
+    C_lib();
     return 0;
 }
