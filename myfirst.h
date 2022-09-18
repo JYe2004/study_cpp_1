@@ -6,5 +6,6 @@
 #define CODING_1_MYFIRST_H
 #include <iostream>
 void hellow();
+void carrot();
 
 #endif //CODING_1_MYFIRST_H

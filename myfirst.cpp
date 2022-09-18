@@ -18,3 +18,16 @@ void hellow()
     cout << "You will not regret it!" << endl;
     printf("666");
 }
+void carrot()
+{
+    using namespace std;
+
+    int carrot = 10;
+
+    cout << "I have ";
+    cout << carrot;
+    cout << " carrots";
+    cout << endl;
+    carrot = carrot - 1;
+    cout << "Now I have " << carrot << " carrots"<<endl;
+}

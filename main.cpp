@@ -4,7 +4,7 @@
 #include "myfirst.h"
 int main(void)
 {
-    hellow();
-
+    //hellow();
+    carrot();
     return 0;
 }
