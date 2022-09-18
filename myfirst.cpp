@@ -20,7 +20,6 @@ void hellow()
 }
 void carrot()
 {
-    using namespace std;
 
     int carrot = 10;
 

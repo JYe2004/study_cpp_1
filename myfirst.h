@@ -6,6 +6,8 @@
 #define CODING_1_MYFIRST_H
 #include <iostream>
 #include <cmath>
+using namespace std;
+
 void hellow();
 void carrot();
 void cinit();
