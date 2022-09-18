@@ -31,3 +31,15 @@ void carrot()
     carrot = carrot - 1;
     cout << "Now I have " << carrot << " carrots"<<endl;
 }
+void cinit()
+{
+    int carrot;
+    std::cout << "How many carrot you need ?"
+    << std::endl;
+    std::cin >> carrot;
+    carrot += 2;
+    std::cout << "Now ,you have " << carrot << " carrots" << std::endl;
+}
+
+
+

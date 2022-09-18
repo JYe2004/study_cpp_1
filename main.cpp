@@ -5,6 +5,8 @@
 int main(void)
 {
     //hellow();
-    carrot();
+    //carrot();
+    cinit();
+
     return 0;
 }

@@ -7,5 +7,6 @@
 #include <iostream>
 void hellow();
 void carrot();
+void cinit();
 
 #endif //CODING_1_MYFIRST_H
